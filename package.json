@@ -2,6 +2,7 @@
     "name": "magento2-extension-pack",
     "displayName": "Magento 2 Extension Pack",
     "description": "Useful extensions for Magento 2 development",
+    "icon": "images/icon.png",
     "version": "0.1.0",
     "publisher": "jerrylopez",
     "engines": {
