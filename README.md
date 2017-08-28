@@ -1,4 +1,4 @@
-# Visual Studio Code Magento 2 Extension Pack
+# Magento 2 Extension Pack for Visual Studio Code
 
 ### Extensions in this pack:
 
